@@ -35,6 +35,7 @@ public class first_coding {
 	
 	public static void main(String[] args) {
 		first_coding obj = new first_coding();
+	
 		
 	}
 

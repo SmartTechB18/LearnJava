@@ -1,5 +1,7 @@
 package com.more_Java;
 
+import com.java_practice.JavaLoop;
+
 public class ToRunCode {
 	static int id = 100;
 	String x;
@@ -20,7 +22,7 @@ public class ToRunCode {
 
 	public static void main(String[] args) {
 		
-		
+		JavaLoop ab = new JavaLoop();
 		
 	}
 
