@@ -21,6 +21,7 @@ public class RevereseWithSpaceSequence {
 		System.out.println(x);
 		
 		System.out.println("Output");
+		
 		int j=0;
 		for(int i=0; i<x.length(); i++) {
 			
